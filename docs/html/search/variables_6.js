@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['fast_5falignment_5ffinished_5fflag_5f155',['FAST_ALIGNMENT_FINISHED_FLAG_155',['../a00018.html#afb8dbfbad12456e8a5d9f3cb8f5d5f37',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5fgradient_5fscan_5fphase_5froutine_5f156',['FAST_ALIGNMENT_GRADIENT_SCAN_PHASE_ROUTINE_156',['../a00018.html#a2ebc9ee12f0794af1dc6c4fc2857bdfe',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5fgs_5famplitude_5froutine_5f154',['FAST_ALIGNMENT_GS_AMPLITUDE_ROUTINE_154',['../a00018.html#a6a699905136aa3d167a6e0020481de5b',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5fgs_5fresult_5froutine_5f152',['FAST_ALIGNMENT_GS_RESULT_ROUTINE_152',['../a00018.html#a4fded277757d0042c652c8ecedfbc515',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5fgs_5fweight_5froutine_5f153',['FAST_ALIGNMENT_GS_WEIGHT_ROUTINE_153',['../a00018.html#a387e5b6f86eaed8e3d5f1eddeb07230f',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5finput_5fchannel_5f150',['FAST_ALIGNMENT_INPUT_CHANNEL_150',['../a00018.html#a4bb313a80be185ed96d6491658cc7d07',1,'pipython::datarectools::RecordOptions']]],
+  ['fast_5falignment_5fprocess_5fregister_5f151',['FAST_ALIGNMENT_PROCESS_REGISTER_151',['../a00018.html#a0b9d04f04741456f8e15464a0b5f9da0',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fangle_5f112',['FIELD_ORIENTED_CONTROL_ANGLE_112',['../a00018.html#a362ba76b4e14a4322259fcb75319533c',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fangle_5ffrom_5fpos_5f113',['FIELD_ORIENTED_CONTROL_ANGLE_FROM_POS_113',['../a00018.html#ad23436bc61bc0f985bafeb00bc294b41',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5ferror_5fd_5f114',['FIELD_ORIENTED_CONTROL_ERROR_D_114',['../a00018.html#a3f9fe460195fabed5c1179e73cd5d217',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5ferror_5fq_5f115',['FIELD_ORIENTED_CONTROL_ERROR_Q_115',['../a00018.html#a0382ac0982bfe51eaae3d04d38637941',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fid_5f107',['FIELD_ORIENTED_CONTROL_ID_107',['../a00018.html#a444ba06e3ef7a32ef1e7ec4aa9eb9044',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fiq_5f108',['FIELD_ORIENTED_CONTROL_IQ_108',['../a00018.html#af92ce1283fd06e58f03bcd8a53bf0b89',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fu_5falpha_5f109',['FIELD_ORIENTED_CONTROL_U_ALPHA_109',['../a00018.html#aefbff2d3637d60676d3bc9e1c5f8cb75',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fu_5fbeta_5f110',['FIELD_ORIENTED_CONTROL_U_BETA_110',['../a00018.html#aece26f6c20fdc52e68147713589a813d',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fud_5f105',['FIELD_ORIENTED_CONTROL_UD_105',['../a00018.html#a0fc141e85c2a9a3d09e6ef0fc568edb8',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fuq_5f106',['FIELD_ORIENTED_CONTROL_UQ_106',['../a00018.html#aaf2969f4054d2d5fa1fa277bb6d79aff',1,'pipython::datarectools::RecordOptions']]],
+  ['field_5foriented_5fcontrol_5fv_5fphase_5f111',['FIELD_ORIENTED_CONTROL_V_PHASE_111',['../a00018.html#ac93fbf4db81280cfe7ff41d132fea20e',1,'pipython::datarectools::RecordOptions']]]
+];

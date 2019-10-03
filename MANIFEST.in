@@ -1,0 +1,5 @@
+recursive-include docs *
+recursive-include samples *
+include license.md
+include readme.rst
+prune test
