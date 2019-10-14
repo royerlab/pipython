@@ -40,13 +40,13 @@ def setwinreg():
 
 
 if __name__ == '__main__':
-    try:
-        setwinreg()
-    except:  # exception can be different, No exception type(s) specified pylint: disable=W0702
-        print("\nWARNING: It's recommended to run this setup with administrator permissions.")
-        print('You can install PIPython with user permissions but then PIUpdateFinder will')
-        print('not notify you about updates.\n')
-        input('Press ENTER to install PIPython with user permissions or CTRL+C to cancel...')
+    # try:
+    #     setwinreg()
+    # except:  # exception can be different, No exception type(s) specified pylint: disable=W0702
+    #     print("\nWARNING: It's recommended to run this setup with administrator permissions.")
+    #     print('You can install PIPython with user permissions but then PIUpdateFinder will')
+    #     print('not notify you about updates.\n')
+    #     input('Press ENTER to install PIPython with user permissions or CTRL+C to cancel...')
     setup(name='PIPython',
           version=__version__,
           description='Collection of libraries to use PI devices and process GCS data.',
